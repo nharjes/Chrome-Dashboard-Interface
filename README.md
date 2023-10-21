@@ -38,7 +38,7 @@ This Chrome extension provides real-time weather updates, cryptocurrency informa
 
 ## Contributing
 
-Contributions are welcome! If you'd like to improve this extension or report issues, please [submit an issue](https://github.com/nharjes/your-repo/issues) or [create a pull request](https://github.com/nharjes/your-repo/pulls).
+Contributions are welcome! If you'd like to improve this extension or report issues, please [submit an issue](https://github.com/nharjes/Chrome-Dashboard-Interface/issues) or [create a pull request](https://github.com/nharjes/Chrome-Dashboard-Interface/pulls).
 
 ## License
 
