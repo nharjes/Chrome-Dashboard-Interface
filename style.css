@@ -40,12 +40,14 @@ div#crypto {
 div#crypto > p {
     margin: 0;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 div#crypto-top {
     display: flex;
     align-items: center;
     margin-bottom: 5px;
+    cursor: pointer;
 }
 
 div#crypto-top > span {
